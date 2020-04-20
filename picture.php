@@ -1,4 +1,5 @@
-<!DOCTYPE HTML>
+
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -7,7 +8,6 @@ table {
 
   border-collapse: collapse;
   width: 30%;
-
 }
 
 
@@ -22,12 +22,13 @@ background-image: url("https://media.istockphoto.com/photos/abstract-blurred-sim
 
 </style>
 </table>
+
 </head>
 <<body style="background-color:grey;">
 
-<center><font color="white"><h2>Resume</h2></font></center>
+<font color="white"><h2>Personal Information</h2></font>
 
-<table align="center">
+<table>
 <tr>
     <td>Last Name</td>
     <td>Lin</td>
@@ -39,25 +40,14 @@ background-image: url("https://media.istockphoto.com/photos/abstract-blurred-sim
 
   </tr>
   <tr>
-    <td>Date of Birth</td>
-    <td>08/12/1999</td>
-  </tr>
-  <tr>
-    <td>Address</td>
-    <td>1072 65st,brooklyn,NY,11219</td>
-  <tr>
-    <td>Hobby</td>
-    <td>games,sports,training</td>
-  </tr>
-  <tr>
-    <td>Living Actually</td>
-    <td>School, BMCC</td>
+    <td>Summary</td>
+    <td>Hi everyone, my name is chunyong lin, if you are intersted about me, then click the link that provide below.</td>
 
- </tr>
-<tr>
-    <td>Major</td>
-    <td>Computer Science</td>
- </tr>
+  </tr>
 
 </table>
-<center><a href="picture.php">back to the main</a></center>
+<a href="https://www.bmcc.cuny.edu/#">Visit My College</a></br>
+<a href="resume.php">Visit My Resume</a>
+
+</body>
+</html>
